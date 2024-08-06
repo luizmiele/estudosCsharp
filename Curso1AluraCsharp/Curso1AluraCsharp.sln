@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "ScreenSound\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoAdivinha", "JogoAdivinha\JogoAdivinha.csproj", "{E39B4063-61ED-424A-93DE-AB194354BF45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula4", "Aula4\Aula4.csproj", "{EDED197D-DA85-4F27-A523-7588D4164E2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{E39B4063-61ED-424A-93DE-AB194354BF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E39B4063-61ED-424A-93DE-AB194354BF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E39B4063-61ED-424A-93DE-AB194354BF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDED197D-DA85-4F27-A523-7588D4164E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDED197D-DA85-4F27-A523-7588D4164E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDED197D-DA85-4F27-A523-7588D4164E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDED197D-DA85-4F27-A523-7588D4164E2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
