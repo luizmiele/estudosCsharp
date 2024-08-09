@@ -1,0 +1,15 @@
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/bin/Debug/net8.0/ScreenSound
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/bin/Debug/net8.0/ScreenSound.deps.json
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/bin/Debug/net8.0/ScreenSound.runtimeconfig.json
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/bin/Debug/net8.0/ScreenSound.dll
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/bin/Debug/net8.0/ScreenSound.pdb
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/ScreenSound.AssemblyInfoInputs.cache
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/ScreenSound.AssemblyInfo.cs
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/ScreenSound.csproj.CoreCompileInputs.cache
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/ScreenSound.sourcelink.json
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/ScreenSound.dll
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/refint/ScreenSound.dll
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/ScreenSound.pdb
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/ScreenSound.genruntimeconfig.cache
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/ScreenSound/obj/Debug/net8.0/ref/ScreenSound.dll
