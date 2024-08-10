@@ -1,0 +1,15 @@
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/Aula3.GeneratedMSBuildEditorConfig.editorconfig
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/Aula3.AssemblyInfoInputs.cache
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/Aula3.AssemblyInfo.cs
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/Aula3.csproj.CoreCompileInputs.cache
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/Aula3.sourcelink.json
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/bin/Debug/net8.0/Aula3
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/bin/Debug/net8.0/Aula3.deps.json
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/bin/Debug/net8.0/Aula3.runtimeconfig.json
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/bin/Debug/net8.0/Aula3.dll
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/bin/Debug/net8.0/Aula3.pdb
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/Aula3.dll
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/refint/Aula3.dll
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/Aula3.pdb
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/Aula3.genruntimeconfig.cache
+/home/miele/Documentos/estudosCsharp/Curso2AluraCsharp/Aula3/obj/Debug/net8.0/ref/Aula3.dll
